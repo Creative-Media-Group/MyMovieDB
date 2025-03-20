@@ -1,0 +1,1 @@
+[Bootstrap](https://github.com/twbs/bootstrap "Bootstrap repository") is licensed under [MIT-License](https://github.com/twbs/bootstrap/blob/main/LICENSE "MIT-License")
